@@ -236,8 +236,6 @@ span{
 }
 /* Rooms */
 .card{
-  width: 45rem;
-  height: 30rem;
   color: var(--white);
   padding: 5rem 3rem;
   font-weight: 700;
