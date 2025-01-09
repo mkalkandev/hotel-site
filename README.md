@@ -16,7 +16,7 @@ Contents
 
 # Project URL
 
-The project is published at: [Product preview card component](https://mkalkandev.github.io/hotel-site/)
+The project is published at: [Hotel-site](https://mkalkandev.github.io/hotel-site/)
 
 # Features
 
