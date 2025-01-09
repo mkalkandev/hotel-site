@@ -1,0 +1,32 @@
+/* Mobile */
+@media (max-width:768px){
+    html{
+        font-size: 0.8rem;
+    }
+    .header-container, .gallery-container, .article.flex-columns{
+      flex-direction: column;
+      
+    }
+    .navbar{
+      padding-top: 2rem;
+    }
+    .navbar ul li a {
+      padding: 1rem;
+    }
+    .flex-container{
+      flex-direction: column;
+      width: 70%;
+    }
+    .card{
+      width: 100%;
+    }
+    .manager img, .card{
+      width: 80%;
+      margin: 0 auto;
+    }
+    .flex-columns .column{
+      flex: 100%;
+      flex-direction: column;
+    }
+  
+  }
